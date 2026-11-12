@@ -1,3 +1,33 @@
 {
-  "theme": "iris"
+  "theme": "iris",
+  "featured": [],
+  "hidden": [
+    "Shoaib-korabu"
+  ],
+  "overrides": {
+    "GSA-Extractor": {
+      "title": "GSA-Extractor",
+      "description": "GSA-Extractor Fails to Detect and Scrape Submissions Due to Gray Swan Arena SPA Update  #1",
+      "demo": "",
+      "image": ""
+    },
+    "free-claude-chatbot": {
+      "title": "free-claude-chatbot",
+      "description": " A free Claude AI chatbot running in the browser via Puter.js",
+      "demo": "",
+      "image": ""
+    },
+    "devstore": {
+      "title": "devstore",
+      "description": "My DevDex configuration",
+      "demo": "",
+      "image": ""
+    },
+    "Gray-Swan-Arena-Chat-Extractor": {
+      "title": "Gray-Swan-Arena-Chat-Extractor",
+      "description": "Chrome MV3 extension to sync live challenge rosters, registered breaks, and conversation logs from any Gray Swan Arena challenge and export them to JSON or ZIP.",
+      "demo": "",
+      "image": ""
+    }
+  }
 }
