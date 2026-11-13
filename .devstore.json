@@ -1,6 +1,8 @@
 {
   "theme": "iris",
-  "featured": [],
+  "featured": [
+    "Gray-Swan-Arena-Chat-Extractor"
+  ],
   "hidden": [
     "Shoaib-korabu"
   ],
