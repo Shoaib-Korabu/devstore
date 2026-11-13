@@ -17,15 +17,15 @@
       "demo": "",
       "image": ""
     },
-    "devstore": {
-      "title": "devstore",
-      "description": "My DevDex configuration",
-      "demo": "",
-      "image": ""
-    },
     "Gray-Swan-Arena-Chat-Extractor": {
       "title": "Gray-Swan-Arena-Chat-Extractor",
       "description": "Chrome MV3 extension to sync live challenge rosters, registered breaks, and conversation logs from any Gray Swan Arena challenge and export them to JSON or ZIP.",
+      "demo": "",
+      "image": ""
+    },
+    "devstore": {
+      "title": "devstore",
+      "description": "My DevDex configuration",
       "demo": "",
       "image": ""
     }
